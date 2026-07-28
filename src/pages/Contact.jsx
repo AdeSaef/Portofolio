@@ -141,7 +141,7 @@ const Contact = () => {
                   WhatsApp
                 </p>
                 <p className="text-[13px] text-slate-500 dark:text-slate-400 font-medium">
-                  +62 812-3456-7890
+                  +62 821-2126-6405
                 </p>
               </div>
             </div>
